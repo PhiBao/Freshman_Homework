@@ -1,0 +1,6 @@
+﻿  Vecto.cpp
+c:\users\kiter\source\repos\bt02\bt02\vecto.cpp(59): warning C4715: 'operator*': not all control paths return a value
+c:\users\kiter\source\repos\bt02\bt02\vecto.cpp(39): warning C4715: 'operator+': not all control paths return a value
+c:\users\kiter\source\repos\bt02\bt02\vecto.cpp(49): warning C4715: 'operator-': not all control paths return a value
+c:\users\kiter\source\repos\bt02\bt02\vecto.cpp(110): warning C4715: 'Vecto::operator^': not all control paths return a value
+  BT02.vcxproj -> C:\Users\kiter\source\repos\BT02\Debug\BT02.exe

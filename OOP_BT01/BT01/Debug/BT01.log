@@ -1,0 +1,6 @@
+﻿  CTKH.cpp
+  List.cpp
+  Main.cpp
+  Generating Code...
+C:\Users\kiter\source\repos\BT01\BT01\List.cpp(149,11): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  BT01.vcxproj -> C:\Users\kiter\source\repos\BT01\Debug\BT01.exe
